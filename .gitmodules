@@ -1,0 +1,9 @@
+[submodule "externals/sfml"]
+	path = externals/sfml
+	url = https://github.com/sfml/sfml.git
+[submodule "externals/zlib"]
+	path = externals/zlib
+	url = https://github.com/madler/zlib.git
+[submodule "externals/libpng"]
+	path = externals/libpng
+	url = git://git.code.sf.net/p/libpng/code
